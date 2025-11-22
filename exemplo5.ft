@@ -1,0 +1,11 @@
+/* Verificação de idade com string */
+
+inteiro idade;
+char status;
+
+idade = 17;
+status = "Menor";
+
+se (idade >= 18) 
+    status = "Adulto";
+

@@ -1,0 +1,8 @@
+inteiro a;
+inteiro b;
+a = 5;
+b = a * 3 + 2;
+
+se (b > 10) 
+    b = b - 1;
+

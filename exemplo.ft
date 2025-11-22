@@ -1,0 +1,8 @@
+inteiro x;
+inteiro y;
+x = 10;
+y = x + 5;
+se (x > 5)
+    y = y + 1;
+senao
+    y = 0;

@@ -1,0 +1,8 @@
+inteiro idade;
+char nome;
+idade = 18;
+nome = "Joao";
+
+se (idade >= 18) 
+    nome = "Adulto";
+
